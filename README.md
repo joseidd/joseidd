@@ -1,0 +1,16 @@
+- 👋 Hi, I’m Jose Duran
+
+- 👀 I’m interested in ...
+- Tech, Software development, AI, coding.
+
+- 📫 How to reach me ...
+- Email: Joseidd@hotmail.com
+- Linkedin: https://www.linkedin.com/in/jose-duran-338a34189/
+
+- ⚡ Fun fact:
+-   Everything that you see in this world, it was created by people that was not smarter that you.
+
+<!---
+joseidd/joseidd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
