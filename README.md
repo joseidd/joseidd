@@ -8,7 +8,7 @@
 - Linkedin: https://www.linkedin.com/in/jose-duran-338a34189/
 
 - ⚡ Fun fact:
--   Everything that you see in this world, it was created by people that was not smarter that you.
+-   Everything that you see in this world, it was created by people that was not smarter than you.
 
 <!---
 joseidd/joseidd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
