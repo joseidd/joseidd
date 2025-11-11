@@ -5,7 +5,7 @@
 
 - 📫 How to reach me ...
 - Email: Joseidd@hotmail.com
-- Linkedin: https://www.linkedin.com/in/jose-duran-338a34189/
+- Linkedin: https://www.linkedin.com/in/joseiduran/
 
 - ⚡ Fun fact:
 -   Everything that you see in this world, it was created by people that was not smarter than you.
