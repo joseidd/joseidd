@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jose Duran
 
 - 👀 I’m interested in ...
-- Tech, Software development, AI, coding.
+- Tech, Software development, AI.
 
 - 📫 How to reach me ...
 - Email: Joseidd@hotmail.com
